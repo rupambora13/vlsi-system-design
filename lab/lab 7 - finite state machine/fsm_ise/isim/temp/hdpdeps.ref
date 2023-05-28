@@ -1,0 +1,8 @@
+V3 3
+EN isim_temp/MEALY_FSM 0 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR isim_temp/MEALY_FSM/RTL 0 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" \
+      EN isim_temp/MEALY_FSM 0

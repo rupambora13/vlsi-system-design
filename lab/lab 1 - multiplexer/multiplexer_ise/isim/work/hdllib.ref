@@ -1,0 +1,10 @@
+EN mux_rtl1 NULL "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/mux_rtl1.vhd" sub00/vhpl06 1685262890
+EN selector NULL "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl00 1685262217
+AR mux_rtl1 rtl1 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/mux_rtl1.vhd" sub00/vhpl07 1685262891
+AR selector rtl1 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl01 1685262218
+AR selector rtl2 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl02 1685262219
+AR selector rtl3 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl03 1685262220
+AR selector rtl4 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl04 1685262221
+EN mux_rtl1_tb NULL "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/mux_rtl1_tb.vhw" sub00/vhpl08 1685263116
+AR mux_rtl1_tb testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/mux_rtl1_tb.vhw" sub00/vhpl09 1685263117
+EN selector_tb NULL "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR_TB.vhd" sub00/vhpl05 1685262485

@@ -1,0 +1,7 @@
+EN mux_rtl1 NULL "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/mux_rtl1.vhd" sub00/vhpl05 1685264220
+EN selector NULL "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl00 1685262111
+AR mux_rtl1 rtl1 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/mux_rtl1.vhd" sub00/vhpl06 1685264221
+AR selector rtl1 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl01 1685262112
+AR selector rtl2 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl02 1685262113
+AR selector rtl3 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl03 1685262114
+AR selector rtl4 "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/SELECTOR.vhd" sub00/vhpl04 1685262115

@@ -1,0 +1,2 @@
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/adder_ise.ise" -intstyle ise -ifn CarryRippleAdder.xst -ofn CarryRippleAdder.syr
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/adder_ise.ise" -intstyle ise -ifn CarryRippleAdder.xst -ofn CarryRippleAdder.syr

@@ -1,0 +1,2 @@
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_ise.ise" -intstyle ise -ifn comparator.xst -ofn comparator.syr
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_ise.ise" -intstyle ise -ifn comparator.xst -ofn comparator.syr

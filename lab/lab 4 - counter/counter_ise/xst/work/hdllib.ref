@@ -1,0 +1,12 @@
+AR johnson_counter behavioral "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Johnson_counter.vhd" sub00/vhpl01 1685268753
+EN acnt NULL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" sub00/vhpl08 1685274931
+AR updown_counter behavioral "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_counter.vhd" sub00/vhpl07 1685269245
+EN johnson_counter NULL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Johnson_counter.vhd" sub00/vhpl00 1685268752
+EN updown_counter NULL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_counter.vhd" sub00/vhpl05 1685269244
+AR pulse_counter rtl "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/PULSE_COUNTER.vhd" sub00/vhpl06 1685271933
+EN ring_counter NULL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Ring_counter.vhd" sub00/vhpl03 1685271680
+EN pulse_counter NULL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/PULSE_COUNTER.vhd" sub00/vhpl02 1685271932
+EN jkff NULL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd" sub00/vhpl10 1685274929
+AR jkff rtl "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd" sub00/vhpl11 1685274930
+AR acnt rtl "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" sub00/vhpl09 1685274932
+AR ring_counter behavioral "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Ring_counter.vhd" sub00/vhpl04 1685271681

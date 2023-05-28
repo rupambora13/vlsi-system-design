@@ -1,0 +1,10 @@
+AR sipo_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/sipo_wf.vhw" sub00/vhpl08 1685278506
+AR sipo_2_n sipo4_2_arch "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/sipo.vhd" sub00/vhpl06 1685277420
+AR piso2bit_mod behavioral "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/piso.vhd" sub00/vhpl02 1685276377
+EN p2s NULL "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/P2S.vhd" sub00/vhpl00 1685276368
+AR sipo_2_n rtl "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/sipo.vhd" sub00/vhpl09 1685278435
+EN piso_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/piso_wf.vhw" sub00/vhpl03 1685277151
+EN sipo_2_n NULL "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/sipo.vhd" sub00/vhpl05 1685278434
+EN sipo_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/sipo_wf.vhw" sub00/vhpl07 1685278505
+AR piso_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/piso_wf.vhw" sub00/vhpl04 1685277152
+EN piso2bit_mod NULL "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/piso.vhd" sub00/vhpl01 1685276376

@@ -1,0 +1,4 @@
+AR comparator_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_wf.vhw" sub00/vhpl03 1685265640
+AR comparator rtl "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator.vhd" sub00/vhpl01 1685265638
+EN comparator_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_wf.vhw" sub00/vhpl02 1685265639
+EN comparator NULL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator.vhd" sub00/vhpl00 1685265637

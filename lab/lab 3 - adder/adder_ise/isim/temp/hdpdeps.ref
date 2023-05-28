@@ -1,0 +1,9 @@
+V3 3
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" 2023/05/28.14:58:22 J.36
+EN isim_temp/CLAU 1685266928 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR isim_temp/CLAU/RTL 1685266929 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" \
+      EN isim_temp/CLAU 1685266928

@@ -1,0 +1,2 @@
+vhdl work "mux_rtl1.vhd"
+vhdl work "mux_rtl1_tb.vhw"

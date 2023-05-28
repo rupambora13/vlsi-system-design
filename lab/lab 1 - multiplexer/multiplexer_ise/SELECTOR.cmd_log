@@ -1,0 +1,2 @@
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/multiplexer_ise.ise" -intstyle ise -ifn SELECTOR.xst -ofn SELECTOR.syr
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/multiplexer_ise.ise" -intstyle ise -ifn SELECTOR.xst -ofn SELECTOR.syr

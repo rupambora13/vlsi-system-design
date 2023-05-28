@@ -1,0 +1,25 @@
+V3 9
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" 2023/05/20.12:36:49 J.36
+EN work/DFF 1685272724 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/DFF/RTL 1685272725 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" \
+      EN work/DFF 1685272724
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" 2023/05/20.12:36:43 J.36
+EN work/DFFQN 1685272831 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/DFFQN/RTL 1685272832 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" \
+      EN work/DFFQN 1685272831
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" 2023/05/28.16:53:48 J.36
+EN work/JKFF 1685273263 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/JKFF/RTL 1685273264 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" \
+      EN work/JKFF 1685273263

@@ -1,0 +1,9 @@
+EN mealy NULL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd" sub00/vhpl00 1684716773
+AR mealy_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy_wf.vhw" sub00/vhpl03 1685278840
+AR moore behavioral "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore.vhd" sub00/vhpl06 1685279042
+EN moore_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore_wf.vhw" sub00/vhpl07 1685279043
+AR moore_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore_wf.vhw" sub00/vhpl08 1685279044
+EN moore NULL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore.vhd" sub00/vhpl05 1685279041
+AR mealy behavioral "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd" sub00/vhpl01 1684716774
+EN mealy_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy_wf.vhw" sub00/vhpl02 1685278839
+EN mealy_fsm NULL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" sub00/vhpl04 1685278975

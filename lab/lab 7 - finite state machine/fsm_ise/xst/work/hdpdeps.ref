@@ -1,0 +1,23 @@
+V3 9
+FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd" 2023/05/22.06:21:11 J.36
+EN work/mealy 1685278689 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd" \
+      PB ieee/std_logic_1164 1177545575
+AR work/mealy/Behavioral 1685278690 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd" \
+      EN work/mealy 1685278689
+FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" 2023/05/19.06:44:21 J.36
+EN work/MEALY_FSM 0 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" \
+      PB ieee/std_logic_1164 1177545575 PB ieee/std_logic_arith 1177545576 \
+      PB ieee/STD_LOGIC_UNSIGNED 1177545583
+AR work/MEALY_FSM/RTL 0 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" \
+      EN work/MEALY_FSM 0
+FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore.vhd" 2023/05/28.18:33:28 J.36
+EN work/moore 1685279017 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore.vhd" \
+      PB ieee/std_logic_1164 1177545575
+AR work/moore/Behavioral 1685279018 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/moore.vhd" \
+      EN work/moore 1685279017

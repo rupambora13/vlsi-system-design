@@ -1,0 +1,60 @@
+V3 25
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" 2023/05/28.15:20:54 J.36
+EN work/CarryRippleAdder 1685267540 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/CarryRippleAdder/RTL 1685267541 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" \
+      EN work/CarryRippleAdder 1685267540 CP FA
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" 2023/05/28.14:58:22 J.36
+EN work/CLAU 1685266911 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/CLAU/RTL 1685266912 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" \
+      EN work/CLAU 1685266911
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/clau_wf.vhw" 2023/05/28.15:29:56 J.36
+EN work/clau_wf 1685268010 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/clau_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/clau_wf/testbench_arch 1685268011 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/clau_wf.vhw" \
+      EN work/clau_wf 1685268010 CP CLAU
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/cra_wf.vhw" 2023/05/28.15:17:55 J.36
+EN work/cra_wf 1685267542 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/cra_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/cra_wf/testbench_arch 1685267543 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/cra_wf.vhw" \
+      EN work/cra_wf 1685267542 CP CarryRippleAdder
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" 2023/05/22.05:52:05 J.36
+EN work/FA 1685266939 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/FA/RTL_dataflow 1685266940 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" \
+      EN work/FA 1685266939
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" 2023/05/28.14:58:06 J.36
+EN work/HA 1685266328 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/HA/RTL_dataflow 1685266329 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" \
+      EN work/HA 1685266328
+FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/ha_wf.vhw" 2023/05/28.15:00:41 J.36
+EN work/ha_wf 1685266330 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/ha_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/ha_wf/testbench_arch 1685266331 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/ha_wf.vhw" \
+      EN work/ha_wf 1685266330 CP HA

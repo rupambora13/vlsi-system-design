@@ -1,0 +1,29 @@
+Release 9.2i - xst J.36
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.05 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" in Library work.
+ERROR:HDLParsers:3312 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 14. Undefined symbol 'MEALY_TYPE'.
+ERROR:HDLParsers:1209 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 14. MEALY_TYPE: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 20. Undefined symbol 'P_STATE'.
+ERROR:HDLParsers:3312 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 20. Undefined symbol 'N_STATE'.
+ERROR:HDLParsers:1209 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 20. N_STATE: Undefined symbol (last report in this block)
+ERROR:HDLParsers:164 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 24. parse error, unexpected COLON, expecting SEMICOLON
+ERROR:HDLParsers:164 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 30. parse error, unexpected ELSE, expecting END
+ERROR:HDLParsers:164 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 36. parse error, unexpected ELSE, expecting END
+ERROR:HDLParsers:164 - "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/MEALY_FSM.vhd" Line 44. parse error, unexpected IF, expecting PROCESS
+CPU : 0.00 / 0.05 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 175984 kilobytes
+
+Number of errors   :    9 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

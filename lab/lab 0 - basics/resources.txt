@@ -1,0 +1,4 @@
+https://allaboutfpga.com/vhdl-code-4-bit-ring-johnson-counter/
+https://startingelectronics.org/software/VHDL-CPLD-course/tut19-up-down-counter/
+https://startingelectronics.org/software/VHDL-CPLD-course/tut12_ring_counter/
+https://allaboutfpga.com/sequence-detector-using-mealy-and-moore-state-machine-vhdl-codes/

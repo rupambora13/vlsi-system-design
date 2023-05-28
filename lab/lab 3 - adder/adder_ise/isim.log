@@ -1,0 +1,34 @@
+ command line:
+   ./clau_wf_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  51000
+
+Sun May 28 15:30:11 2023
+
+Total Line Count : 92
+
+ Elaboration time : 0 sec.
+
+ Estimate current memory usage : 158.859 Meg. 
+
+ Total Signals          : 12
+ Total Nets             : 15
+ Total Signal Drivers   : 9
+ Total Blocks           : 7
+ Total Primitive Blocks : 1
+ Total Processes        : 7
+ Total Traceable Variables  : 0
+ Total Scalar Nets and Variables : 15
+ntrace select -o on -m / -l this 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.046875 sec.
+
+ Estimate current memory usage : 164.499 Meg. 
+
+Sun May 28 15:38:21 2023
+

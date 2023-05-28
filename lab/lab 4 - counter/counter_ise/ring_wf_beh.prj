@@ -1,0 +1,2 @@
+vhdl work "Ring_counter.vhd"
+vhdl work "ring_wf.vhw"

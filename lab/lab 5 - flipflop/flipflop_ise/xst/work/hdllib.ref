@@ -1,0 +1,6 @@
+AR dff rtl "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" sub00/vhpl04 1685272725
+EN dff NULL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" sub00/vhpl03 1685272724
+AR dffqn rtl "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" sub00/vhpl01 1685272832
+EN dffqn NULL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" sub00/vhpl00 1685272831
+EN jkff NULL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" sub00/vhpl02 1685273263
+AR jkff rtl "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" sub00/vhpl05 1685273264

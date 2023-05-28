@@ -1,0 +1,24 @@
+Release 9.2i - xst J.36
+Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 0.03 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/P2S.vhd" in Library work.
+Entity <P2S> compiled.
+ERROR:HDLParsers:3312 - "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/P2S.vhd" Line 30. Undefined symbol 'REDUCE_XOR'.
+ERROR:HDLParsers:1209 - "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/P2S.vhd" Line 30. REDUCE_XOR: Undefined symbol (last report in this block)
+ERROR:HDLParsers:804 - "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/P2S.vhd" Line 33. Size of DFF is different than size of the target.
+CPU : 0.01 / 0.05 s | Elapsed : 0.00 / 0.00 s
+ 
+--> 
+
+Total memory usage is 176112 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

@@ -1,0 +1,52 @@
+V3 21
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" 2023/05/20.12:36:49 J.36
+EN work/DFF 1685272606 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/DFF/RTL 1685272607 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFF.vhd" \
+      EN work/DFF 1685272606
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" 2023/05/20.12:36:43 J.36
+EN work/DFFQN 1684715634 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/DFFQN/RTL 1684715635 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/DFFQN.vhd" \
+      EN work/DFFQN 1684715634
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/dffqn_wf.vhw" 2023/05/28.16:50:52 J.36
+EN work/dffqn_wf 1685272858 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/dffqn_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/dffqn_wf/testbench_arch 1685272859 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/dffqn_wf.vhw" \
+      EN work/dffqn_wf 1685272858 CP DFFQN
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/dff_wf.vhw" 2023/05/28.16:47:40 J.36
+EN work/dff_wf 1685272668 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/dff_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/dff_wf/testbench_arch 1685272669 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/dff_wf.vhw" \
+      EN work/dff_wf 1685272668 CP DFF
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" 2023/05/28.16:53:48 J.36
+EN work/JKFF 1685273325 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/JKFF/RTL 1685273326 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" \
+      EN work/JKFF 1685273325
+FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/jkff_wf.vhw" 2023/05/28.16:58:32 J.36
+EN work/jkff_wf 1685273327 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/jkff_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/jkff_wf/testbench_arch 1685273328 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/jkff_wf.vhw" \
+      EN work/jkff_wf 1685273327 CP JKFF

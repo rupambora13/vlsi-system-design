@@ -1,0 +1,3 @@
+MODULE updown_wf
+SUBMODULE updown_counter
+INSTANCE UUT

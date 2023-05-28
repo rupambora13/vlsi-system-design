@@ -1,0 +1,36 @@
+ command line:
+   ./comparator_wf_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  50855
+
+Sun May 28 14:50:38 2023
+
+Total Line Count : 59
+
+ Elaboration time : 0 sec.
+
+ Estimate current memory usage : 157.966 Meg. 
+
+ Total Signals          : 6
+ Total Nets             : 9
+ Total Signal Drivers   : 3
+ Total Blocks           : 7
+ Total Primitive Blocks : 1
+ Total Processes        : 2
+ Total Traceable Variables  : 1
+ Total Scalar Nets and Variables : 10
+ntrace select -o on -n /comparator_wf/a 
+ntrace select -o on -n /comparator_wf/b 
+ntrace select -o on -n /comparator_wf/same 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Simulation time 0.03125 sec.
+
+ Estimate current memory usage : 163.607 Meg. 
+
+Sun May 28 14:57:44 2023
+

@@ -1,0 +1,18 @@
+V3 7
+FL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator.vhd" 2023/05/28.14:50:33 J.36
+EN work/comparator 1685265637 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/comparator/rtl 1685265638 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator.vhd" \
+      EN work/comparator 1685265637
+FL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_wf.vhw" 2023/05/28.14:35:16 J.36
+EN work/comparator_wf 1685265639 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/comparator_wf/testbench_arch 1685265640 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator_wf.vhw" \
+      EN work/comparator_wf 1685265639 CP comparator

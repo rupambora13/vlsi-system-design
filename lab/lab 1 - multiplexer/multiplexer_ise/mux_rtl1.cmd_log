@@ -1,0 +1,2 @@
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/multiplexer_ise.ise" -intstyle ise -ifn mux_rtl1.xst -ofn mux_rtl1.syr
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 1 - multiplexer/multiplexer_ise/multiplexer_ise.ise" -intstyle ise -ifn mux_rtl1.xst -ofn mux_rtl1.syr

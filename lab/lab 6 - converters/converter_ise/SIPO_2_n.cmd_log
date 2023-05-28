@@ -1,0 +1,1 @@
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 6 - converters/converter_ise/converter_ise.ise" -intstyle ise -ifn SIPO_2_n.xst -ofn SIPO_2_n.syr

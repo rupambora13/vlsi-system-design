@@ -1,0 +1,11 @@
+AR ha rtl_dataflow "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" sub00/vhpl06 1685266560
+EN fa NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" sub00/vhpl07 1685267456
+EN ha NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" sub00/vhpl05 1685266559
+EN clau NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" sub00/vhpl00 1685267909
+AR cra rtl_for "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CRA.vhd" sub00/vhpl04 1684714867
+EN carryrippleadder NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" sub00/vhpl09 1685267458
+EN cra NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CRA.vhd" sub00/vhpl02 1684714865
+AR fa rtl_dataflow "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" sub00/vhpl08 1685267457
+AR carryrippleadder rtl "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" sub00/vhpl10 1685267459
+AR clau rtl "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" sub00/vhpl01 1685267910
+AR cra rtl_component "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CRA.vhd" sub00/vhpl03 1684714866

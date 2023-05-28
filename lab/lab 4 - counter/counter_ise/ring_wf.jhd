@@ -1,0 +1,3 @@
+MODULE ring_wf
+SUBMODULE Ring_counter
+INSTANCE UUT

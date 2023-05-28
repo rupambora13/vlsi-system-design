@@ -1,0 +1,14 @@
+AR ha rtl_dataflow "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" sub00/vhpl01 1685266329
+EN fa NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" sub00/vhpl06 1685266939
+EN ha NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/HA.vhd" sub00/vhpl00 1685266328
+EN clau NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" sub00/vhpl04 1685266911
+EN carryrippleadder NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" sub00/vhpl08 1685267540
+EN clau_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/clau_wf.vhw" sub00/vhpl12 1685268010
+EN ha_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/ha_wf.vhw" sub00/vhpl02 1685266330
+AR fa rtl_dataflow "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/FA.vhd" sub00/vhpl07 1685266940
+AR ha_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/ha_wf.vhw" sub00/vhpl03 1685266331
+AR clau_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/clau_wf.vhw" sub00/vhpl13 1685268011
+AR cra_wf testbench_arch "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/cra_wf.vhw" sub00/vhpl11 1685267543
+AR carryrippleadder rtl "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CarryRippleAdder.vhd" sub00/vhpl09 1685267541
+AR clau rtl "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/CLAU.vhd" sub00/vhpl05 1685266912
+EN cra_wf NULL "D:/git repositories/vlsi-system-design/lab/lab 3 - adder/adder_ise/cra_wf.vhw" sub00/vhpl10 1685267542

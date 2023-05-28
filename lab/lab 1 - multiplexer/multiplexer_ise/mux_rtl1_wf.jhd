@@ -1,0 +1,3 @@
+MODULE mux_rtl1_wf
+SUBMODULE mux_rtl1
+INSTANCE UUT

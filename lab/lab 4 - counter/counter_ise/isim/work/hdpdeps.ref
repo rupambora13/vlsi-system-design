@@ -1,0 +1,77 @@
+V3 32
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd" 2023/05/28.16:53:48 J.36
+EN work/JKFF 1685274821 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/JKFF/RTL 1685274822 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd" \
+      EN work/JKFF 1685274821
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" 2023/05/28.17:23:11 J.36
+EN work/ACNT 1685274823 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/ACNT/RTL 1685274824 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" \
+      EN work/ACNT 1685274823 CP JKFF
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/acnt_wf.vhw" 2023/05/28.17:25:48 J.36
+EN work/acnt_wf 1685274954 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/acnt_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/acnt_wf/testbench_arch 1685274955 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/acnt_wf.vhw" \
+      EN work/acnt_wf 1685274954 CP ACNT
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Johnson_counter.vhd" 2023/05/22.05:59:37 J.36
+EN work/Johnson_counter 1685268758 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Johnson_counter.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/Johnson_counter/Behavioral 1685268759 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Johnson_counter.vhd" \
+      EN work/Johnson_counter 1685268758
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/jonshon_wf.vhw" 2023/05/28.15:44:45 J.36
+EN work/jonshon_wf 1685268890 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/jonshon_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/jonshon_wf/testbench_arch 1685268891 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/jonshon_wf.vhw" \
+      EN work/jonshon_wf 1685268890 CP Johnson_counter
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Ring_counter.vhd" 2023/05/20.12:09:53 J.36
+EN work/Ring_counter 1685271602 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Ring_counter.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/Ring_counter/Behavioral 1685271603 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/Ring_counter.vhd" \
+      EN work/Ring_counter 1685271602
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ring_wf.vhw" 2023/05/28.16:29:51 J.36
+EN work/ring_wf 1685271604 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ring_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/ring_wf/testbench_arch 1685271605 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ring_wf.vhw" \
+      EN work/ring_wf 1685271604 CP Ring_counter
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_counter.vhd" 2023/05/28.15:49:13 J.36
+EN work/updown_counter 1685269298 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_counter.vhd" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991
+AR work/updown_counter/Behavioral 1685269299 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_counter.vhd" \
+      EN work/updown_counter 1685269298
+FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_wf.vhw" 2023/05/28.15:54:23 J.36
+EN work/updown_wf 1685269469 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_wf.vhw" \
+      PB ieee/std_logic_1164 1179176983 PB ieee/std_logic_arith 1179176985 \
+      PB ieee/STD_LOGIC_UNSIGNED 1179176991 PB ieee/STD_LOGIC_TEXTIO 1179176993 \
+      PB std/textio 1179176969
+AR work/updown_wf/testbench_arch 1685269470 \
+      FL "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/updown_wf.vhw" \
+      EN work/updown_wf 1685269469 CP updown_counter

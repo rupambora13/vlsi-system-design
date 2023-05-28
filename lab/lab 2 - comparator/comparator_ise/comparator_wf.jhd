@@ -1,0 +1,3 @@
+MODULE comparator_wf
+SUBMODULE comparator
+INSTANCE UUT
