@@ -1,24 +1,26 @@
 Release 9.2i - xst J.36
 Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
 --> Parameter TMPDIR set to ./xst/projnav.tmp
-CPU : 0.00 / 0.04 s | Elapsed : 0.00 / 0.00 s
+CPU : 0.00 / 0.06 s | Elapsed : 0.00 / 0.00 s
  
 --> 
 =========================================================================
 *                          HDL Compilation                              *
 =========================================================================
+WARNING:HDLParsers:3607 - Unit work/JKFF is now defined in a different file.  It was defined in "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd", and is now defined in "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd".
+WARNING:HDLParsers:3607 - Unit work/JKFF/RTL is now defined in a different file.  It was defined in "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd", and is now defined in "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd".
 Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" in Library work.
 Architecture rtl of Entity jkff is up to date.
 Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" in Library work.
 Entity <acnt> compiled.
 Entity <acnt> (Architecture <rtl>) compiled.
-CPU : 0.02 / 0.05 s | Elapsed : 0.00 / 0.00 s
+CPU : 0.02 / 0.08 s | Elapsed : 0.00 / 0.00 s
  
 --> 
 
-Total memory usage is 176048 kilobytes
+Total memory usage is 175984 kilobytes
 
 Number of errors   :    0 (   0 filtered)
-Number of warnings :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
 Number of infos    :    0 (   0 filtered)
 

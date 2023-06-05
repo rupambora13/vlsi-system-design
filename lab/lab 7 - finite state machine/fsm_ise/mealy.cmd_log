@@ -1,0 +1,1 @@
+xst -ise "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/fsm_ise.ise" -intstyle ise -ifn mealy.xst -ofn mealy.syr

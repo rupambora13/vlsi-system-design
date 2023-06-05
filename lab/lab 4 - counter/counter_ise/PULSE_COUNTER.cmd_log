@@ -1,5 +1,0 @@
-xst -ise "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/counter_ise.ise" -intstyle ise -ifn PULSE_COUNTER.xst -ofn PULSE_COUNTER.syr
-xst -ise "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/counter_ise.ise" -intstyle ise -ifn PULSE_COUNTER.xst -ofn PULSE_COUNTER.syr
-xst -ise "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/counter_ise.ise" -intstyle ise -ifn PULSE_COUNTER.xst -ofn PULSE_COUNTER.syr
-xst -ise "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/counter_ise.ise" -intstyle ise -ifn PULSE_COUNTER.xst -ofn PULSE_COUNTER.syr
-xst -ise "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/counter_ise.ise" -intstyle ise -ifn PULSE_COUNTER.xst -ofn PULSE_COUNTER.syr

@@ -5,10 +5,10 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="Xst" num="1780" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">FFQ&lt;0&gt;</arg>&gt; is never used or assigned.
+<msg type="warning" file="HDLParsers" num="3607" delta="unknown" >Unit <arg fmt="%s" index="1">work/JKFF</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd</arg>&quot;.
 </msg>
 
-<msg type="warning" file="Xst" num="646" delta="unknown" >Signal &lt;<arg fmt="%s" index="1">FFQn&lt;8&gt;</arg>&gt; is assigned but never used.
+<msg type="warning" file="HDLParsers" num="3607" delta="unknown" >Unit <arg fmt="%s" index="1">work/JKFF/RTL</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/../../lab 5 - flipflop/flipflop_ise/JKFF.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd</arg>&quot;.
 </msg>
 
 </messages>

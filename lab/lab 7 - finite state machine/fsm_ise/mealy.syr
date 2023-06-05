@@ -1,12 +1,12 @@
 Release 9.2i - xst J.36
 Copyright (c) 1995-2007 Xilinx, Inc.  All rights reserved.
 --> Parameter TMPDIR set to ./xst/projnav.tmp
-CPU : 0.00 / 0.03 s | Elapsed : 0.00 / 0.00 s
+CPU : 0.00 / 0.04 s | Elapsed : 0.00 / 1.00 s
  
 --> Parameter xsthdpdir set to ./xst
-CPU : 0.00 / 0.03 s | Elapsed : 0.00 / 0.00 s
+CPU : 0.00 / 0.04 s | Elapsed : 0.00 / 1.00 s
  
---> Reading design: ACNT.prj
+--> Reading design: mealy.prj
 
 TABLE OF CONTENTS
   1) Synthesis Options Summary
@@ -25,17 +25,17 @@ TABLE OF CONTENTS
 *                      Synthesis Options Summary                        *
 =========================================================================
 ---- Source Parameters
-Input File Name                    : "ACNT.prj"
+Input File Name                    : "mealy.prj"
 Input Format                       : mixed
 Ignore Synthesis Constraint File   : NO
 
 ---- Target Parameters
-Output File Name                   : "ACNT"
+Output File Name                   : "mealy"
 Output Format                      : NGC
 Target Device                      : Automotive 9500XL
 
 ---- Source Options
-Top Module Name                    : ACNT
+Top Module Name                    : mealy
 Automatic FSM Extraction           : YES
 FSM Encoding Algorithm             : Auto
 Safe Implementation                : No
@@ -51,7 +51,7 @@ Equivalent register Removal        : YES
 ---- General Options
 Optimization Goal                  : Speed
 Optimization Effort                : 1
-Library Search Order               : ACNT.lso
+Library Search Order               : mealy.lso
 Keep Hierarchy                     : YES
 RTL Output                         : Yes
 Hierarchy Separator                : /
@@ -69,27 +69,20 @@ wysiwyg                            : NO
 =========================================================================
 *                          HDL Compilation                              *
 =========================================================================
-Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd" in Library work.
-Architecture rtl of Entity jkff is up to date.
-Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd" in Library work.
-Architecture rtl of Entity acnt is up to date.
+Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd" in Library work.
+Architecture behavioral of Entity mealy is up to date.
 
 =========================================================================
 *                     Design Hierarchy Analysis                         *
 =========================================================================
-Analyzing hierarchy for entity <ACNT> in library <work> (architecture <rtl>).
-
-Analyzing hierarchy for entity <JKFF> in library <work> (architecture <rtl>).
+Analyzing hierarchy for entity <mealy> in library <work> (architecture <behavioral>).
 
 
 =========================================================================
 *                            HDL Analysis                               *
 =========================================================================
-Analyzing Entity <ACNT> in library <work> (Architecture <rtl>).
-Entity <ACNT> analyzed. Unit <ACNT> generated.
-
-Analyzing Entity <JKFF> in library <work> (Architecture <rtl>).
-Entity <JKFF> analyzed. Unit <JKFF> generated.
+Analyzing Entity <mealy> in library <work> (Architecture <behavioral>).
+Entity <mealy> analyzed. Unit <mealy> generated.
 
 
 =========================================================================
@@ -98,41 +91,56 @@ Entity <JKFF> analyzed. Unit <JKFF> generated.
 
 Performing bidirectional port resolution...
 
-Synthesizing Unit <JKFF>.
-    Related source file is "D:/git repositories/vlsi-system-design/lab/lab 5 - flipflop/flipflop_ise/JKFF.vhd".
-    Found 1-bit register for signal <FF>.
+Synthesizing Unit <mealy>.
+    Related source file is "D:/git repositories/vlsi-system-design/lab/lab 7 - finite state machine/fsm_ise/mealy.vhd".
+INFO:Xst:1799 - State st3 is never reached in FSM <present_state>.
+    Found finite state machine <FSM_0> for signal <present_state>.
+    -----------------------------------------------------------------------
+    | States             | 3                                              |
+    | Transitions        | 6                                              |
+    | Inputs             | 1                                              |
+    | Outputs            | 1                                              |
+    | Clock              | clk (rising_edge)                              |
+    | Reset              | rst (positive)                                 |
+    | Reset type         | synchronous                                    |
+    | Reset State        | st0                                            |
+    | Power Up State     | st0                                            |
+    | Encoding           | automatic                                      |
+    | Implementation     | automatic                                      |
+    -----------------------------------------------------------------------
     Summary:
-	inferred   1 D-type flip-flop(s).
-Unit <JKFF> synthesized.
-
-
-Synthesizing Unit <ACNT>.
-    Related source file is "D:/git repositories/vlsi-system-design/lab/lab 4 - counter/counter_ise/ACNT.vhd".
-WARNING:Xst:1780 - Signal <FFQ<0>> is never used or assigned.
-WARNING:Xst:646 - Signal <FFQn<8>> is assigned but never used.
-Unit <ACNT> synthesized.
+	inferred   1 Finite State Machine(s).
+Unit <mealy> synthesized.
 
 
 =========================================================================
 HDL Synthesis Report
 
-Macro Statistics
-# Registers                                            : 8
- 1-bit register                                        : 8
-
+Found no macro
 =========================================================================
 
 =========================================================================
 *                       Advanced HDL Synthesis                          *
 =========================================================================
 
+Analyzing FSM <FSM_0> for best encoding.
+Optimizing FSM <FSM_0> on signal <present_state[1:2]> with sequential encoding.
+-------------------
+ State | Encoding
+-------------------
+ st0   | 00
+ st1   | 01
+ st2   | 10
+ st3   | unreached
+-------------------
 
 =========================================================================
 Advanced HDL Synthesis Report
 
 Macro Statistics
-# Registers                                            : 8
- Flip-Flops                                            : 8
+# FSMs                                                 : 1
+# Registers                                            : 2
+ Flip-Flops                                            : 2
 
 =========================================================================
 
@@ -140,9 +148,9 @@ Macro Statistics
 *                         Low Level Synthesis                           *
 =========================================================================
 
-Optimizing unit <ACNT> ...
-
-Optimizing unit <JKFF> ...
+Optimizing unit <mealy> ...
+  implementation constraint: INIT=r	 : present_state_FFd1
+  implementation constraint: INIT=r	 : present_state_FFd2
 
 =========================================================================
 *                          Partition Report                             *
@@ -159,8 +167,8 @@ Partition Implementation Status
 *                            Final Report                               *
 =========================================================================
 Final Results
-RTL Top Level Output File Name     : ACNT.ngr
-Top Level Output File Name         : ACNT
+RTL Top Level Output File Name     : mealy.ngr
+Top Level Output File Name         : mealy
 Output Format                      : NGC
 Optimization Goal                  : Speed
 Keep Hierarchy                     : YES
@@ -171,24 +179,26 @@ Clock Enable                       : YES
 wysiwyg                            : NO
 
 Design Statistics
-# IOs                              : 10
+# IOs                              : 4
 
 Cell Usage :
-# BELS                             : 16
-#      INV                         : 16
-# FlipFlops/Latches                : 8
-#      FDC                         : 8
-# IO Buffers                       : 10
-#      IBUF                        : 2
-#      OBUF                        : 8
+# BELS                             : 6
+#      AND2                        : 2
+#      AND3                        : 1
+#      INV                         : 3
+# FlipFlops/Latches                : 2
+#      FD                          : 2
+# IO Buffers                       : 4
+#      IBUF                        : 3
+#      OBUF                        : 1
 =========================================================================
-CPU : 0.56 / 0.60 s | Elapsed : 1.00 / 1.00 s
+CPU : 0.57 / 0.62 s | Elapsed : 0.00 / 1.00 s
  
 --> 
 
-Total memory usage is 181288 kilobytes
+Total memory usage is 181480 kilobytes
 
 Number of errors   :    0 (   0 filtered)
-Number of warnings :    2 (   0 filtered)
-Number of infos    :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    1 (   0 filtered)
 

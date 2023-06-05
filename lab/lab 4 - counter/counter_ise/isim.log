@@ -2,15 +2,15 @@
    ./acnt_wf_isim_beh.exe
      -intstyle  ise
      -ipchost  localhost
-     -ipcport  51823
+     -ipcport  50106
 
-Sun May 28 17:25:56 2023
+Mon May 29 19:44:13 2023
 
 Total Line Count : 250
 
  Elaboration time : 0 sec.
 
- Estimate current memory usage : 157.749 Meg. 
+ Estimate current memory usage : 158.085 Meg. 
 
  Total Signals          : 65
  Total Nets             : 37
@@ -27,13 +27,10 @@ ntrace start
 isimrun 1000 ns 
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
-isimrun all 
-isimstop -s 
-isimrun all 
 
- Simulation time 43.2813 sec.
+ Simulation time 0 sec.
 
- Estimate current memory usage : 161.03 Meg. 
+ Estimate current memory usage : 170.803 Meg. 
 
-Sun May 28 17:27:14 2023
+Mon May 29 19:44:59 2023
 

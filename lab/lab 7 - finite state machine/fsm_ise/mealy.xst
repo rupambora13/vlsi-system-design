@@ -1,16 +1,16 @@
 set -tmpdir "./xst/projnav.tmp"
 set -xsthdpdir "./xst"
 run
--ifn PULSE_COUNTER.prj
+-ifn mealy.prj
 -ifmt mixed
--ofn PULSE_COUNTER
+-ofn mealy
 -ofmt NGC
 -p xa9500xl
--top PULSE_COUNTER
+-top mealy
 -opt_mode Speed
 -opt_level 1
 -iuc NO
--lso PULSE_COUNTER.lso
+-lso mealy.lso
 -keep_hierarchy YES
 -rtlview Yes
 -hierarchy_separator /

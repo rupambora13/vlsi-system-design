@@ -192,11 +192,11 @@ Cell Usage :
 #      IBUF                        : 3
 #      OBUF                        : 1
 =========================================================================
-CPU : 0.56 / 0.60 s | Elapsed : 1.00 / 1.00 s
+CPU : 0.88 / 0.92 s | Elapsed : 1.00 / 1.00 s
  
 --> 
 
-Total memory usage is 182376 kilobytes
+Total memory usage is 181608 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

@@ -70,8 +70,7 @@ wysiwyg                            : NO
 *                          HDL Compilation                              *
 =========================================================================
 Compiling vhdl file "D:/git repositories/vlsi-system-design/lab/lab 2 - comparator/comparator_ise/comparator.vhd" in Library work.
-Entity <comparator> compiled.
-Entity <comparator> (Architecture <rtl>) compiled.
+Architecture rtl of Entity comparator is up to date.
 
 =========================================================================
 *                     Design Hierarchy Analysis                         *
