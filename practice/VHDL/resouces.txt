@@ -1,0 +1,10 @@
+Sequential circuits: https://www.tutorialspoint.com/vlsi_design/vhdl_programming_for_sequential_circuits.htm
+			
+			1. SR Latch
+			2. D Latch
+			3. SR Flipflop
+			4. JK Fliplop
+			5. D Flipflop
+			6. T Flipflop
+			7. 4-bit Up Counter
+			8. 4-bit Down Counter
